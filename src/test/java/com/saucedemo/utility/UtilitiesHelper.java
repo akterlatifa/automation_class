@@ -123,8 +123,12 @@ public class UtilitiesHelper {
 		prop.load(new FileInputStream("src/test/resources/config.properties"));
 		return prop.getProperty(propertykey);
 		
+	
 		
 	}
+public void gitlearning() {
+	System.out.println("I am learning git");
 	
-	
+}	
+
 }
