@@ -126,7 +126,5 @@ public class UtilitiesHelper {
 		
 	}
 	
-	public void gitlearning() {
-		System.out.println("I am learning git");}
 	
 }
